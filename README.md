@@ -4,6 +4,7 @@
 - 🛡️ Cybersecurity & C++ enthusiast & low-level systems 
 - 💻 Currently learning: C++, Python, Assembly  
 - 🖥️ OS Experience: Mint, Nobara, Pop_OS, Zorin, Windows 11, EndeavourOS
+- 🖥️ Current OS: EndeavourOS
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
 
   
