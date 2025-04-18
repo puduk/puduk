@@ -3,7 +3,7 @@
 - 🎓 Computer Science student at PJATK (Polish-Japanese Academy of IT)  
 - 🛡️ Cybersecurity & C++ enthusiast & low-level systems 
 - 💻 Currently learning: C++, Python, Assembly  
-- 🖥️ OS Experience: Mint, Nobara, Pop_OS, Zorin, Windows 11, EndeavourOS
+- 🖥️ OS Experience: Mint, Nobara, Pop_OS, Zorin, Windows 11
 - 🖥️ Current OS: EndeavourOS
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
 
