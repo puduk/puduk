@@ -7,6 +7,7 @@
 - 🖥️ Current OS: EndeavourOS
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
 
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -17,12 +18,13 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" /><br><sub><b>C++</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux_Arch_Linux.svg" width="60" height="60" alt="Arch Linux" /><br><sub><b>Arch Linux</b></sub>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Archlinux-icon-crystal-64.svg" width="60" height="60" alt="Arch Linux" /><br><sub><b>Arch Linux</b></sub>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 
