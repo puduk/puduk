@@ -7,27 +7,29 @@
 - 🖥️ Current OS: EndeavourOS
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
 
-<h3 align="left">🎯 Current OS</h3>
+
+## 🧬 Current OS
 
 <p align="center">
-  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/EndeavourOS_Logo.svg" width="70" alt="EndeavourOS" title="Currently using EndeavourOS"/>
-</p>
-
-<h3 align="left">🚀 OS Experience</h3>
-
-<p align="center">
-  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Linux_Mint_logo_without_wordmark.svg" width="60" alt="Linux Mint" title="Linux Mint"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Zorin_Logomark.svg" width="60" alt="Zorin OS" title="Zorin OS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Pop!_OS_Icon.svg" width="60" alt="Pop!_OS" title="Pop!_OS"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/960px-Nobara_logotype.png" width="60" alt="Nobara" title="Nobara"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/960px-Windows_11_logo.svg.png" width="60" alt="Windows 11" title="Windows 11"/>
+  <img src="https://img.shields.io/badge/EndeavourOS-5A5CBB?style=for-the-badge&logo=endeavouros&logoColor=white" alt="EndeavourOS"/>
 </p>
 
 
+## 🌌 OS Experience
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Zorin_OS-0CCEED?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white" alt="Pop!_OS"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Nobara-764ABC?style=for-the-badge&logo=archlinux&logoColor=white" alt="Nobara"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11"/>
+</p>
+
+---
 
 <!---
 puduk/puduk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
