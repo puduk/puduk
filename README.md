@@ -2,11 +2,33 @@
 
 - 🎓 Computer Science student at PJATK (Polish-Japanese Academy of IT)  
 - 🛡️ Cybersecurity & C++ enthusiast & low-level systems 
-- 💻 Currently learning: C++, Python, Assembly  
-- 🖥️ OS Experience: Mint, Nobara, Pop_OS, Zorin, Windows 11
-- 🖥️ Current OS: EndeavourOS
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
+- 🧱 Wrote **42,500+ lines of C++** in 30 days.
 
+
+
+
+
+<h3>🧠 Currently Learning</h3>
+
+<div align="left">
+  <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Assembly" title="Assembly" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux_Terminal-000000?style=for-the-badge&logo=linux&logoColor=yellow" alt="Linux Terminal" title="Linux Terminal" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Algorithms-009688?style=for-the-badge&logoColor=white" alt="Algorithms" title="Algorithms" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Reverse_Engineering-7E57C2?style=for-the-badge&logoColor=white" alt="Reverse Engineering" title="Reverse Engineering" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" title="Oracle SQL" /></a>
+</div>
+
+---
+<h3>🚀 Upcoming Learning</h3>
+
+<div align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" /></a>
+</div>
 
 ## 🧬 Current OS
 
@@ -30,6 +52,10 @@
 </p>
 
 ---
+
+<img src="https://img.shields.io/badge/Total%20Lines-~42.5k-purple?style=flat-square&logo=cplusplus" />
+
+<!--START_SECTION:waka-->
 
 <!---
 puduk/puduk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
