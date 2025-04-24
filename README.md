@@ -7,37 +7,25 @@
 - 🖥️ Current OS: EndeavourOS
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
 
-<h3>🧠 Current OS</h3>
+<h3 align="left">🎯 Current OS</h3>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/EndeavourOS_Logo.svg" width="50" /><br><sub><b>EndeavourOS</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/EndeavourOS_Logo.svg" width="70" alt="EndeavourOS" title="Currently using EndeavourOS"/>
+</p>
 
-<h3>🧬 OS Experience</h3>
+<h3 align="left">🚀 OS Experience</h3>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Linux_Mint_logo_without_wordmark.svg" width="50" /><br><sub><b>Linux Mint</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Zorin_Logomark.svg" width="50" /><br><sub><b>Zorin OS</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Pop!_OS_Icon.svg" width="50" /><br><sub><b>Pop!_OS</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/960px-Nobara_logotype.png" width="50" /><br><sub><b>Nobara</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/960px-Windows_11_logo.svg.png" width="50" /><br><sub><b>Windows 11</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Linux_Mint_logo_without_wordmark.svg" width="60" alt="Linux Mint" title="Linux Mint"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Zorin_Logomark.svg" width="60" alt="Zorin OS" title="Zorin OS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Pop!_OS_Icon.svg" width="60" alt="Pop!_OS" title="Pop!_OS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/960px-Nobara_logotype.png" width="60" alt="Nobara" title="Nobara"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/960px-Windows_11_logo.svg.png" width="60" alt="Windows 11" title="Windows 11"/>
+</p>
 
 
 
