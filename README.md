@@ -57,14 +57,14 @@
 
 
 
-<h2 align="center">🧠 Contribution Flow</h2>
+<h2 align="center">⌨️ Keystroke Map</h2>
 
 <p align="center">
   <img src="https://github.com/puduk/puduk/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
 </p>
 
 <p align="center">
-  <i>puduk.</i>
+  <i>01001101 01000100 // puduk.</i>
 </p>
 
 <!--START_SECTION:waka-->
