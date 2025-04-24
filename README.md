@@ -7,7 +7,8 @@
 - 🖥️ Current OS: EndeavourOS
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<div align="center"> <table> <tr> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" /><br><sub><b>C++</b></sub> </td> <td align="center" width="120"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="60" height="60" alt="Arch Linux" /><br><sub><b>Arch Linux</b></sub> </td> </tr> </table> </div>
 
 
 <!---
