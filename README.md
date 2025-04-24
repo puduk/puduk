@@ -4,6 +4,29 @@
 - 🛡️ Cybersecurity & C++ enthusiast & low-level systems 
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
 - 🧱 Wrote **42,500+ lines of C++** in 30 days.
+<details>
+  <summary>Click to see more cool stats</summary>
+
+  🔥 42,500+ lines of C++  
+  💾 Obsessed with terminal-based apps  
+  🎮 Game developer in training
+
+</details>
+
+
+
+<h2 align="center">🧠 Contribution Flow</h2>
+
+<p align="center">
+  <img src="https://github.com/puduk/puduk/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
+</p>
+
+<p align="center">
+  <i>A visual trail of my daily coding journey – automated and generated with GitHub Actions.</i>
+</p>
+---
+
+
 
 
 
