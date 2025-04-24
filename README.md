@@ -8,19 +8,6 @@
 
 
 
-<h2 align="center">🧠 Contribution Flow</h2>
-
-<p align="center">
-  <img src="https://github.com/puduk/puduk/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
-</p>
-
-<p align="center">
-  <i>A visual trail of my daily coding journey – automated and generated with GitHub Actions.</i>
-</p>
----
-
-
-
 
 
 
@@ -67,9 +54,19 @@
   <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11"/>
 </p>
 
----
+
 
 <img src="https://img.shields.io/badge/Total%20Lines-~42.5k-purple?style=flat-square&logo=cplusplus" />
+
+<h2 align="center">🧠 Contribution Flow</h2>
+
+<p align="center">
+  <img src="https://github.com/puduk/puduk/blob/output/github-contribution-grid-snake.svg" alt="Snake contribution animation" />
+</p>
+
+<p align="center">
+  <i>A visual trail of my daily coding journey – automated and generated with GitHub Actions.</i>
+</p>
 
 <!--START_SECTION:waka-->
 
