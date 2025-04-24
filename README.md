@@ -7,6 +7,16 @@
 - 🖥️ Current OS: EndeavourOS
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
 
+<h3>🧠 Current OS</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/EndeavourOS_Logo.svg" width="50" /><br><sub><b>EndeavourOS</b></sub>
+    </td>
+  </tr>
+</table>
+
 <h3>🧬 OS Experience</h3>
 
 <table>
@@ -21,12 +31,13 @@
       <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/Pop!_OS_Icon.svg" width="50" /><br><sub><b>Pop!_OS</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/EndeavourOS_Logo.svg" width="50" /><br><sub><b>EndeavourOS</b></sub>
+      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/960px-Nobara_logotype.png" width="50" /><br><sub><b>Nobara</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/puduk/linux-setup/raw/main/assets/logos/960px-Windows_11_logo.svg.png" width="50" /><br><sub><b>Windows 11</b></sub>
     </td>
   </tr>
 </table>
-
-
 
 
 
