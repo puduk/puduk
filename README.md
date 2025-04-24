@@ -56,7 +56,6 @@
 
 
 
-<img src="https://img.shields.io/badge/Total%20Lines-~42.5k-purple?style=flat-square&logo=cplusplus" />
 
 <h2 align="center">🧠 Contribution Flow</h2>
 
