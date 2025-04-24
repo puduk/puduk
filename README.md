@@ -4,14 +4,7 @@
 - 🛡️ Cybersecurity & C++ enthusiast & low-level systems 
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
 - 🧱 Wrote **42,500+ lines of C++** in 30 days.
-<details>
-  <summary>Click to see more cool stats</summary>
 
-  🔥 42,500+ lines of C++  
-  💾 Obsessed with terminal-based apps  
-  🎮 Game developer in training
-
-</details>
 
 
 
