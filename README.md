@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Mert Demir
+##  I’m Mert Demir
 
 - 🎓 Computer Science student at PJATK (Polish-Japanese Academy of IT)  
 - 🛡️ Cybersecurity & C++ enthusiast & low-level systems 
