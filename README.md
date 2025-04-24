@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <i>A visual trail of my daily coding journey – automated and generated with GitHub Actions.</i>
+  <i>puduk.</i>
 </p>
 
 <!--START_SECTION:waka-->
