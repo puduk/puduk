@@ -3,7 +3,8 @@
 - 🎓 Computer Science student at PJATK (Polish-Japanese Academy of IT)  
 - 🛡️ Cybersecurity & C++ enthusiast & low-level systems 
 - 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
-- 🧱 Wrote **42,500+ lines of C++** in 30 days.
+- 🚀 Started my C++ journey on April 7, 2025 — built 16+ real-world projects and wrote 42,500+ lines of code in the first month.
+
 
 
 
