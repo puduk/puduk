@@ -9,7 +9,7 @@
 
 
 
-
+- 🚧 Current Focus: Currently not pushing `C++` too hard — focusing more on improving `algorithm` skills and learning `network` fundamentals.
 
 
 
