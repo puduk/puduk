@@ -9,7 +9,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" title="Rust" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux_Terminal-000000?style=for-the-badge&logo=linux&logoColor=yellow" alt="Linux Terminal" title="Linux Terminal" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" /></a>
   
 </div>
 
@@ -22,7 +21,25 @@
   <a href="#"><img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnuemacs&logoColor=white" alt="Assembly" title="Assembly" /></a>
 </div>
 
+---
 
+<h3>Tools</h3>
+<div align="left">
+<a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git" /></a>
+</div>
+
+---
+
+<h3>Networking</h3>
+<div align="left">
+<a href="#"><img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/UDP-000000?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=cloudflare&logoColor=orange" /></a>
+<a href="#"><img src="https://img.shields.io/badge/HTTP%2FHTTPS-000000?style=for-the-badge&logo=http&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TLS%2FSSL-000000?style=for-the-badge&logo=letsencrypt&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/ARP-000000?style=for-the-badge&logoColor=white" /></a> 
+</div>
 
 
 <h2 align="center">  </h2>
