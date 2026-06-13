@@ -1,16 +1,5 @@
 ##  I’m Mert Demir
 
-- 🎓 Computer Science student at PJATK (Polish-Japanese Academy of IT)  
-- 🛡️ Cybersecurity & C++ enthusiast & low-level systems 
-- 🎯 Long-term goal: Master reverse engineering & become an OSCP-certified ethical hacker
-- 🚀 Started my C++ journey on April 7, 2025 — built 16+ real-world projects and wrote 42,500+ lines of code in the first month.
-
-
-
-
-
-- 🚧 Current Focus: Currently not pushing `C++` too hard — focusing more on improving `algorithm` skills and learning `network` fundamentals.
-
 
 
 <h3>🧠 Currently Learning</h3>
