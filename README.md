@@ -1,4 +1,3 @@
-##  I’m Mert Demir
 
 
 
